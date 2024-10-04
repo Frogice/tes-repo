@@ -1,2 +1,3 @@
 Ini contoh branch baru
-Ini perubahan di branch 1
+Ini contoh perubahan dari branch 2
+
